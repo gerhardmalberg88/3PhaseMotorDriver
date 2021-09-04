@@ -1,0 +1,127 @@
+28964505486177
+MY_FOOTPRINTS
+1.5mm_Padded_Hole
+
+
+0
+1
+1
+MY_FOOTPRINTS
+Boris_Stamp
+
+
+0
+0
+0
+MY_FOOTPRINTS
+DIP-30_W15.24mm
+30-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+30
+30
+MY_FOOTPRINTS
+LAMBO_LOGO
+
+
+0
+0
+0
+MY_FOOTPRINTS
+LAMBO_LOGO_2
+
+
+0
+0
+0
+MY_FOOTPRINTS
+LFXTAL016178REEL
+LFXTAL016178REEL-2
+Crystal or Oscillator
+0
+4
+4
+MY_FOOTPRINTS
+L_Fastron_PISN_with3DModel
+Choke, Drossel, PISN, SMD, Fastron,
+Choke Drossel PISN SMD Fastron 
+0
+2
+2
+MY_FOOTPRINTS
+NOPB
+
+
+0
+6
+6
+MY_FOOTPRINTS
+PAD_for_Flex
+
+
+0
+1
+1
+MY_FOOTPRINTS
+Parallel_R_2816_7142Metric_Pad3.20x4.45mm_Handsoldered
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+MY_FOOTPRINTS
+Potentiometer_PUMLINPartco
+Potentiometer, horizontal, Piher PT-15-H01, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H01
+0
+3
+3
+MY_FOOTPRINTS
+Power_Pad_6x6mm
+
+
+0
+1
+1
+MY_FOOTPRINTS
+SO-8_3.9x4.9mm_P1.27mmWith3DModel
+SO, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+8
+8
+MY_FOOTPRINTS
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+13
+9
+MY_FOOTPRINTS
+SOIC127P600X175-8N
+ST SO-8_4
+Integrated Circuit
+0
+8
+8
+MY_FOOTPRINTS
+SOIC127P1410X370-11N
+
+
+0
+11
+11
+MY_FOOTPRINTS
+SOP65P640X110-21N
+
+
+0
+21
+21
+MY_FOOTPRINTS
+Triple_R_2816_7142Metric_Pad3.20x4.45mm_Handsoldered - Copy
+Resistor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
